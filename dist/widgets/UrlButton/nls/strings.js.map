@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../widgets/UrlButton/nls/strings.js"],"names":["define","root","_widgetLabel"],"mappings":"AAAAA,OAAO;AACLC,QAAO;AACLC,kBAAc;AADT;AADF,CAAP","file":"strings.js","sourcesContent":["define({\r\n  root: ({\r\n    _widgetLabel: \"URL Link Button\"\r\n  })\r\n});\r\n"]}
